@@ -8,7 +8,7 @@
             "Xxb\\First\\": "src/"
         },
         "files" : [
-            "src/hello.php"
+            "src/Hello.php"
         ]
     },
     "authors": [
