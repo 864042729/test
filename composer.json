@@ -19,14 +19,5 @@
     ],
     "require-dev": {
         "codeception/codeception": "1.0.0"
-    },
-    "repositories":[
-        {
-            "type":"vcs",
-            "url":"https://github.com/864042729/test.git"
-        }
-    ],
-    "require": {
-        "xxb/first":"dev-master"
     }
 }
