@@ -9,13 +9,11 @@
         },
         "files" : [
             "src/hello.php"
-        ],
-        "classmap"  : [
         ]
     },
     "authors": [
         {
-            "name": "bao",
+            "name": "xxb",
             "email": "864042729@qq.com"
         }
     ],
