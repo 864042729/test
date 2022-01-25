@@ -17,5 +17,8 @@
             "email": "864042729@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "codeception/codeception": "1.0.0"
+    }
 }
